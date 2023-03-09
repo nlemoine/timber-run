@@ -1,0 +1,12 @@
+{
+    "require": {
+        "timber/timber": "2.x-dev",
+        "hellonico/timber-dump-extension": "dev-master"
+    },
+    "config": {
+        "allow-plugins": {
+            "composer/installers": true
+        }
+    },
+    "minimum-stability": "dev"
+}

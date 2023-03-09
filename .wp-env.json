@@ -1,0 +1,14 @@
+{
+  "core": null,
+  "phpVersion": "8.1",
+  "config": {
+    "WP_DEFAULT_THEME": "theme"
+  },
+  "plugins": [
+    "https://downloads.wordpress.org/plugin/query-monitor.3.11.2.zip"
+  ],
+  "mappings": {
+    "wp-content/themes/theme": "./theme",
+    "wp-content/themes/theme/vendor": "./vendor"
+  }
+}
